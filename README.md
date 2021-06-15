@@ -1,5 +1,5 @@
 # Medieval-Package
-Medieval Asset Package for Unity 3d
+Medieval Asset Package for Unity 3d made with 3ds max, Blender and Substance Painter
 
 Download link: https://lasalleuniversities-my.sharepoint.com/:u:/g/personal/pau_guirao_students_salle_url_edu/EYu9Y8GOiPJDk9E55xBor3UBnXo2CAtKeDiP-idl4gZJng?e=n0bwh8
 
